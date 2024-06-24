@@ -1,0 +1,10 @@
+{
+  "ThisPath": "C:\\Users\\jaksm\\projects\\variables\\target\\debug\\variables_variables.rusttests",
+  "Manifest": "C:\\Users\\jaksm\\projects\\variables\\Cargo.toml",
+  "TargetDir": "C:\\Users\\jaksm\\projects\\variables\\target",
+  "AdditionalTestDiscoveryArguments": "",
+  "AdditionalTestExecutionArguments": "",
+  "TestExecutionEnvironment": "",
+  "Profile": "dev",
+  "TestExes": []
+}
